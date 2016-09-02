@@ -1,0 +1,210 @@
+* {
+	box-sizing: border-box;
+}
+#header-nav {
+	border-radius: 0px; border: 0px border-image: none; background: rgb(180, 180, 180);
+}
+.navbar-header .navbar-brand h1 {
+	color: rgb(100, 60, 180); line-height: 0.75; font-size: 2em; font-weight: bold; margin-top: 0px; margin-bottom: 0px; float: left; text-shadow: 1px 1px 1px skyblue;
+}
+.navbar-default .navbar-header button {
+	border-color: rgb(60, 100, 180);
+}
+.navbar-default .navbar-header button.navbar-toggle span.icon-bar {
+	background-color: rgb(60, 100, 180);
+}
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	text-align: center; color: pink; font-size: 125%; background-color: rgb(100, 60, 180);
+}
+#nav-list a:hover {
+	background-color: yellow; color: rgb(255, 60, 60);
+}
+h1 {
+	text-align: center; color: rgb(60, 100, 180); font-size: 3em; margin-top: 25px; margin-bottom: 25px;
+}
+.row section {
+	border: 3px solid black; border-image: none; margin-right: 15px; margin-bottom: 15px; margin-left: 15px; position: relative; background-color: lightgrey; height: 1000px;
+}
+.row a {
+	text-decoration: underline;
+}
+h2 {
+	margin: 0px; top: 0px; width: 100%; height: 30px; text-align: center; right: 0px; color: white; padding-top: 5px; font-family: Helvetica; font-size: 125%; position: absolute;
+}
+.MainStuff1 {
+	color: white; background-color: maroon;
+}
+.HTML51 {
+	background-color: red;
+}
+.CSS3 {
+	background-color: green;
+}
+.JavaScript1 {
+	background-color: blue;
+}
+p {
+	margin: 55px 15px 15px;
+}
+.row {
+	width: 100%;
+}
+@media all and (min-width:992px)
+{
+.col-lg-1 {
+	float: left;
+}
+.col-lg-2 {
+	float: left;
+}
+.col-lg-3 {
+	float: left;
+}
+.col-lg-4 {
+	float: left;
+}
+.col-lg-5 {
+	float: left;
+}
+.col-lg-6 {
+	float: left;
+}
+.col-lg-7 {
+	float: left;
+}
+.col-lg-8 {
+	float: left;
+}
+.col-lg-9 {
+	float: left;
+}
+.col-lg-10 {
+	float: left;
+}
+.col-lg-11 {
+	float: left;
+}
+.col-lg-12 {
+	float: left;
+}
+#collapsable-nav #nav-list {
+	display: none;
+}
+.col-lg-1 {
+	width: 8.33%;
+}
+.col-lg-2 {
+	width: 16.66%;
+}
+.col-lg-3 {
+	width: 25%;
+}
+.col-lg-4 {
+	width: 33.33%;
+}
+.col-lg-5 {
+	width: 41.66%;
+}
+.col-lg-6 {
+	width: 50%;
+}
+.col-lg-7 {
+	width: 58.33%;
+}
+.col-lg-8 {
+	width: 66.66%;
+}
+.col-lg-9 {
+	width: 74.99%;
+}
+.col-lg-10 {
+	width: 83.33%;
+}
+.col-lg-11 {
+	width: 91.66%;
+}
+.col-lg-12 {
+	width: 100%;
+}
+}
+@media all and (max-width:991px) and (min-width:768px)
+{
+.col-md-1 {
+	float: left;
+}
+.col-md-2 {
+	float: left;
+}
+.col-md-3 {
+	float: left;
+}
+.col-md-4 {
+	float: left;
+}
+.col-md-5 {
+	float: left;
+}
+.col-md-6 {
+	float: left;
+}
+.col-md-7 {
+	float: left;
+}
+.col-md-8 {
+	float: left;
+}
+.col-md-9 {
+	float: left;
+}
+.col-md-10 {
+	float: left;
+}
+.col-md-11 {
+	float: left;
+}
+.col-md-12 {
+	float: left;
+}
+#collapsable-nav #nav-list {
+	display: none;
+}
+.col-md-1 {
+	width: 8.33%;
+}
+.col-md-2 {
+	width: 16.66%;
+}
+.col-md-3 {
+	width: 25%;
+}
+.col-md-4 {
+	width: 33.33%;
+}
+.col-md-5 {
+	width: 41.66%;
+}
+.col-md-6 {
+	width: 50%;
+}
+.col-md-7 {
+	width: 58.33%;
+}
+.col-md-8 {
+	width: 66.66%;
+}
+.col-md-9 {
+	width: 74.99%;
+}
+.col-md-10 {
+	width: 83.33%;
+}
+.col-md-11 {
+	width: 91.66%;
+}
+.col-md-12 {
+	width: 100%;
+}
+}
